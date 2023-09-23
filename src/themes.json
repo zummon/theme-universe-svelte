@@ -1,0 +1,23 @@
+{
+	"": {
+		"name": "Blue",
+		"plate": "bg-white text-blue-500",
+		"svgcolor": "",
+		"card": "text-white bg-blue-500",
+		"button": "border-blue-500"
+	},
+	"dark": {
+		"name": "Dark",
+		"plate": "bg-gray-800 text-white",
+		"svgcolor": "text-cyan-500",
+		"card": "text-white bg-cyan-500",
+		"button": "border-white"
+	},
+	"red": {
+		"name": "Red",
+		"plate": "text-red-500",
+		"svgcolor": "",
+		"card": "text-white bg-red-500",
+		"button": "border-red-500"
+	}
+}
