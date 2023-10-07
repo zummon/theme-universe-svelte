@@ -1,23 +1,23 @@
 {
 	"": {
 		"name": "Blue",
-		"plate": "bg-white text-blue-500",
+		"plate": "bg-light text-primary",
 		"svgcolor": "",
-		"card": "text-white bg-blue-500",
-		"button": "border-blue-500"
+		"card": "text-white bg-primary",
+		"button": "btn-outline-primary"
 	},
 	"dark": {
 		"name": "Dark",
-		"plate": "bg-gray-800 text-white",
-		"svgcolor": "text-cyan-500",
-		"card": "text-white bg-cyan-500",
-		"button": "border-white"
+		"plate": "bg-dark text-white",
+		"svgcolor": "text-info",
+		"card": "text-white bg-info",
+		"button": "btn-outline-light"
 	},
 	"red": {
 		"name": "Red",
-		"plate": "text-red-500",
+		"plate": "text-danger",
 		"svgcolor": "",
-		"card": "text-white bg-red-500",
-		"button": "border-red-500"
+		"card": "text-white bg-danger",
+		"button": "btn-outline-danger"
 	}
 }
