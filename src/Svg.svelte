@@ -1,6 +1,6 @@
 <!-- https://undraw.co/ my universe -->
 <svg
-  class="img-fluid"
+  class="h-auto max-w-full"
   xmlns="http://www.w3.org/2000/svg"
   width="781.72275"
   height="640.45022"
